@@ -24,6 +24,7 @@ export type Subscribe = {
 
 export type SiteConfig = {
     website: string;
+    base: string;
     logo?: Image;
     title: string;
     subtitle?: string;
@@ -40,6 +41,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     website: 'https://watersheepos.github.io',
+    base: '/',
     title: 'Daniel Kuang',
     subtitle: '💻 Hacking away at Rippling',
     description: 'Welcome to my corner of the web!',
