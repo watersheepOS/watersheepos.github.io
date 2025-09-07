@@ -2,7 +2,7 @@
 
 My personal website and blog, built with Astro.js and Tailwind CSS. This site showcases my work, thoughts on technology, finance, and human psychology, and serves as a space for sharing my projects and writing.
 
-![Daniel Kuang's Studio](public/dante-preview.png)
+![Daniel Kuang's Studio](public/dante-preview.jpg)
 
 ## About This Site
 
