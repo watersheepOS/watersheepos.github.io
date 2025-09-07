@@ -2,51 +2,47 @@
 title: Terms of Service
 seo:
   title: Terms of Service
-  description: Explore the terms and conditions of Dante website for a clear understanding of guidelines and responsibilities.
+  description: Terms and conditions for Daniel Kuang's personal website and blog.
 ---
 
-**Last updated on January 11, 2024**
+**Last updated on September 7, 2025**
 
-These Terms of Service ("Terms") govern your access to and use of [Website Name] ("the Website") and any related services provided by [Website Owner/Company] ("we," "us," or "our"). Please read these Terms carefully before using the Website.
+These Terms of Service ("Terms") govern your access to and use of Daniel Kuang's personal website ("the Website"). Please read these Terms carefully before using the Website.
 
 **1. Acceptance of Terms**
 
-By accessing or using the Website, you agree to be bound by these Terms and our Privacy Policy. If you do not agree to these Terms or the Privacy Policy, please do not use the Website.
+By accessing or using the Website, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the Website.
 
-**2. Changes to Terms**
+**2. Personal Website**
 
-We reserve the right to modify, amend, or update these Terms at any time. Such changes will be effective upon posting on the Website. It is your responsibility to review these Terms regularly. Your continued use of the Website after any changes indicates your acceptance of the revised Terms.
+This is a personal website and blog operated by Daniel Kuang. The content reflects personal opinions, experiences, and projects. This is not a commercial website or business entity.
 
-**3. Use of the Website**
+**3. Content and Intellectual Property**
 
-You agree to use the Website for lawful purposes and in a manner consistent with these Terms. You are responsible for any content you post or submit on the Website.
+The content on this Website, including text, graphics, and images, is owned by Daniel Kuang unless otherwise stated. Some images may be referenced from external sources and are used under fair use or with appropriate attribution. The website template is based on the Dante Astro theme by JustGoodUI, which is licensed under GPL 3.0. You may not reproduce, distribute, or use my personal content without explicit written permission. However, the underlying template code is available under GPL 3.0 terms.
 
-**4. Registration and Account**
+**4. Financial Content Disclaimer**
 
-Certain areas of the Website may require registration or the creation of an account. You agree to provide accurate, current, and complete information during the registration process and to update such information to keep it accurate, current, and complete. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.
+Any content related to finance, economics, or investment topics is for informational and educational purposes only. This content does not constitute financial advice, investment recommendations, or professional guidance. Always consult with qualified financial professionals before making investment decisions.
 
-**5. Content and Intellectual Property**
+**5. Third-Party Links**
 
-The content on the Website, including text, graphics, logos, images, audio, video, software, and other materials, is owned or licensed by us and is protected by copyright and other intellectual property laws. You may not use, reproduce, or distribute the content without our prior written consent.
+The Website may contain links to third-party websites. I am not responsible for the content, privacy practices, or terms of use of these external sites. Your use of such websites is at your own risk.
 
-**6. Third-Party Links**
+**6. No Warranties**
 
-The Website may contain links to third-party websites or resources. We do not endorse and are not responsible for the content, products, or services provided by third parties. Your use of such websites is at your own risk.
+The Website and its content are provided on an "as is" basis. I make no warranties about the accuracy, completeness, or reliability of the content. The Website may contain errors or be temporarily unavailable.
 
-**7. Termination**
+**7. Limitation of Liability**
 
-We may, at our sole discretion, terminate or suspend your access to the Website at any time and for any reason, without notice.
+To the fullest extent permitted by law, I shall not be liable for any damages arising from your use of this Website, including but not limited to direct, indirect, incidental, or consequential damages.
 
-**8. Disclaimer**
+**8. Changes to Terms**
 
-The Website and its content are provided on an "as is" and "as available" basis. We make no warranties or representations about the accuracy or completeness of the content. We do not guarantee that the Website will be error-free or uninterrupted.
+I reserve the right to modify these Terms at any time. Changes will be effective upon posting on the Website. Your continued use of the Website after changes indicates acceptance of the revised Terms.
 
-**9. Limitation of Liability**
+**9. Contact**
 
-To the fullest extent permitted by law, we shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to damages for loss of profits, goodwill, use, data, or other intangible losses, arising out of or in connection with the use or inability to use the Website.
+If you have questions about these Terms, you can reach me through the contact information provided on this Website.
 
-**10. Governing Law**
-
-These Terms are governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of laws principles. Any disputes arising under these Terms shall be subject to the exclusive jurisdiction of the courts of [Your Jurisdiction].
-
-_Thank you for reading our Terms of Service. By using the Website, you agree to be bound by these Terms._
+_Thank you for visiting my website. By using this Website, you agree to be bound by these Terms._
