@@ -43,7 +43,7 @@ const siteConfig: SiteConfig = {
     website: 'https://watersheepos.github.io',
     base: '/',
     title: 'Daniel Kuang',
-    subtitle: '💻 Hacking away at Rippling',
+    subtitle: '🚧 Hacking away at Rippling',
     description: 'Welcome to my corner of the web!',
     image: {
         src: '',
